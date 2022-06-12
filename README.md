@@ -1,2 +1,2 @@
 # scripts
-some linux scripts
+Some linux scripts
